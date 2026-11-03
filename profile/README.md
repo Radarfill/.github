@@ -1,3 +1,5 @@
+<img src="logo.png" alt="RadarFill logo" width="120" align="left">
+
 # RadarFill
 
 **Seeing crops through the clouds.** Radar fills cloud gaps in satellite greenness curves, using past data only, so crops can be recognised weeks earlier, with confidence you can trust.
